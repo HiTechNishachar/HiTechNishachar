@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HiTechNishachar
 - 👀 I’m interested in learning to write scripts and code
-- 🌱 I’m currently learning python, bash, C++ and whatever I can get my hands on. 
-- 📫 How to reach me - contact me via DMs on here or linked in or twitter.
+- 🌱 I’m currently learning Python, Bash, C++ and whatever I can get my hands on. 
+- 📫 How to reach me - contact me via DMs on here or LinkedIn or Twitter.
 
 <!---
 HiTechNishachar/HiTechNishachar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
